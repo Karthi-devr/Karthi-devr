@@ -10,12 +10,11 @@ Passionate about building secure applications, exploring cybersecurity, and deve
   <img src="https://komarev.com/ghpvc/?username=karthi-devr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
-
 <br>
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🔭 Currently working on **Smart Defense – AI-Powered Security Monitoring System**
 
